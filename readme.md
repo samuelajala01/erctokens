@@ -20,5 +20,5 @@ Metadata structure of Image 2:
                description: second nft of Samuel Ajala
                   }
 
-
+ERC20 Token address: https://rinkeby.etherscan.io/address/0x558ce7fae2999ea89a13dbac5fcb544a125ea9f2
 ERC721 Token address: https://rinkeby.etherscan.io/address/0xf1c717c7d0d34111514fe8416b750b46eee99809
