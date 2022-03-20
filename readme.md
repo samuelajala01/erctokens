@@ -21,4 +21,4 @@ Metadata structure of Image 2:
                   }
 
 ERC20 Token address: https://rinkeby.etherscan.io/address/0x558ce7fae2999ea89a13dbac5fcb544a125ea9f2
-ERC721 Token address: https://rinkeby.etherscan.io/address/0xf1c717c7d0d34111514fe8416b750b46eee99809
+ERC721 Token address: https://rinkeby.etherscan.io/address/0xec8bd0f89c031ba446ded7f784b4d690c6a44677
